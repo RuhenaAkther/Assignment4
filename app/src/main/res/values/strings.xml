@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment listview</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="text">Text</string>
+    <string name="texts">Text</string>
+
+    <string-array name="Country_names">
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>America</item>
+        <item>Armenia</item>
+        <item>Afghanistan</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+    </string-array>
+
+    <string-array name="Country_subtitles">
+        <item>Land of Rivers</item>
+        <item>Known for Gross National Happiness</item>
+        <item>Worlds Most Populous Country</item>
+        <item>Land of Diversity</item>
+        <item>Land of the Rising Sun</item>
+        <item>Home of the Statue of Liberty</item>
+        <item>Known for Ancient Churches</item>
+        <item>Land of Historical Empires</item>
+        <item>Home of Mount Everest</item>
+        <item>Land of the Indus River</item>
+    </string-array>
+</resources>
